@@ -1,0 +1,37 @@
+_repo: Voyage-musical-en-Allemagne-et-en-Italie-I_33539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berlioz, Hector
+    aliases:
+    - Berlioz, Louis Hector
+    - Berlioz, H. (Hector)
+    birthdate: 1803
+    deathdate: 1869
+    gutenberg_agent_id: '31953'
+    url: http://www.gutenberg.org/2009/agents/31953
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hector_Berlioz
+    - http://fr.wikipedia.org/wiki/Hector_Berlioz
+description: ''
+gutenberg_bookshelf: FR Musique
+gutenberg_issued: '2010-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33539'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- Germany'
+- !lcc 'ML'
+- !lcsh 'Music -- Italy'
+- !lcsh 'Weber, Carl Maria von, 1786-1826'
+- !lcsh 'Gluck, Christoph Willibald, Ritter von, 1714-1787'
+- !lcsh 'Beethoven, Ludwig van, 1770-1827. Symphonies'
+title: Voyage musical en Allemagne et en Italie, I
+url: http://www.gutenberg.org/ebooks/33539
